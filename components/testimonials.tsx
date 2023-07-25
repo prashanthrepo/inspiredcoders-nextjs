@@ -26,7 +26,7 @@ export default function Testimonials() {
     {
       img: TestimonialImg01,
       quote:
-        "Hey The ability to capture responses is a game-changer. If a user gets tired of the sign up and leaves, that data is still persisted. Additionally, it's great to be able to select between formats.ture responses is a game-changer.",
+        "Hey 2 The ability to capture responses is a game-changer. If a user gets tired of the sign up and leaves, that data is still persisted. Additionally, it's great to be able to select between formats.ture responses is a game-changer.",
       name: 'Jessie J',
       role: 'Ltd Head of Product',
     },
