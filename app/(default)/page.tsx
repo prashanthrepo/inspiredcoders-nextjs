@@ -1,7 +1,8 @@
 export const metadata = {
-  title: 'Home - Stellar',
-  description: 'Page description',
-}
+  title: 'Inspired Coders',
+  description:
+    'Inspired Coders is a community of coders who are inspired to learn and share their knowledge with others.',
+};
 
 import Hero from '@/components/hero'
 import Clients from '@/components/clients'
