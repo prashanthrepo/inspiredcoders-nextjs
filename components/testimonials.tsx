@@ -26,23 +26,23 @@ export default function Testimonials() {
     {
       img: TestimonialImg01,
       quote:
-        "Hey 3 The ability to capture responses is a game-changer. If a user gets tired of the sign up and leaves, that data is still persisted. Additionally, it's great to be able to select between formats.ture responses is a game-changer.",
-      name: 'Jessie J',
-      role: 'Ltd Head of Product',
+        'Working with InspiredCoders was a game-changer for our business. Their expert team created a cutting-edge website that not only looks stunning but also performs flawlessly. The attention to security and responsive design exceeded our expectations. Highly recommended!',
+      name: 'Mark Wood',
+      role: 'Team Lead, Expansys UK',
     },
     {
       img: TestimonialImg02,
       quote:
-        'I have been using this product for a few weeks now and I am blown away by the results. My skin looks visibly brighter and smoother, and I have received so many compliments on my complexion.',
-      name: 'Mark Luk',
-      role: 'Spark Founder & CEO',
+        'I am impressed by the level of professionalism and dedication shown by InspiredCoders. They crafted a user-friendly mobile app for our startup that has received rave reviews from our customers. The teams expertise in app security and seamless integration sets them apart. Were thrilled with the results!',
+      name: 'Jerry',
+      role: 'Quality Assurance Lead, Appy',
     },
     {
       img: TestimonialImg03,
       quote:
-        "As a busy professional, I don't have a lot of time to devote to working out. But with this fitness program, I have seen amazing results in just a few short weeks. The workouts are efficient and effective.",
-      name: 'Jeff Kahl',
-      role: 'Appy Product Lead',
+        "From the initial design concept to the final product, InspiredCoders surpassed all our expectations. Their creative graphic design team brought our brand to life, and their web development expertise ensured a smooth user experience. We couldn't be happier with the end result and look forward to future collaborations.",
+      name: 'Srikanth',
+      role: 'COO & Co-Founder, Amplify',
     },
   ];
 
